@@ -19,7 +19,7 @@
     "vuetify": "^2.6.4",
     "vuex": "^3.6.2",
     "workbox-precaching": "^6.5.3",
-    "workbox-routing": "^6.5.3"
+    "workbox-routing": "^7.0.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.17",
